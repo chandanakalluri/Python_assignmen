@@ -10,4 +10,3 @@ def cal_avg(n, student_data, query_name):
         return "{:.2f}".format(avg)
 
 
-
