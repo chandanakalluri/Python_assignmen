@@ -1,5 +1,5 @@
 import unittest
-from python_assignments.src.assignment2.util import second_la
+from Python_assignmen.src.assignment2.util import second_la
 class MyTestCase(unittest.TestCase):
     def test_second_la(self):
         res = second_la()
