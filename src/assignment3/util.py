@@ -1,7 +1,24 @@
-def mutate_string(string, position, character):
-    string_list = list(string)
-    string_list[position] = character
-    mutated_string = ''.join(string_list)
+def mutate_string():
+    string = input("give actual string")#give actual string
+    position = int(input("give me position"))#give positin
+    charecter = input("enter char")#mutation char
+    print(string[:position]+charecter+string[position+1:])
 
-    return mutated_string
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
