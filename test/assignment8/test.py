@@ -1,6 +1,6 @@
 import unittest
 
-from python_assignments.src.assignment8.util import avg
+from Python_assignmen.src.assignment8.util import avg
 class MyTestCase(unittest.TestCase):
     def test_something(self):
         res=avg()
