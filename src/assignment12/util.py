@@ -1,3 +1,4 @@
+
 def min_along_axis_1(matrix):
     return [min(row) for row in matrix]
 
