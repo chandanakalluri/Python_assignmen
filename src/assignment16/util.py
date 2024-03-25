@@ -32,3 +32,4 @@ for _ in range(T):
 
     # Output
 print(can_stack_cubes(n, blocks))
+#

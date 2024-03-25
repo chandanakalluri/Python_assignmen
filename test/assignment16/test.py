@@ -11,7 +11,7 @@ def word_occ(n, words):
             word_count[word] = 1
             distinct_words.append(word)
         else:
-            word_count[word] += 1
+            word_count[word] += 1#
 
     for distinct_word in distinct_words:
         occurrences.append(str(word_count[distinct_word]))
