@@ -12,3 +12,4 @@ def mean_var_std():
             happiness -= 1
 
     return happiness
+#
