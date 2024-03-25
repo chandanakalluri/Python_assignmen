@@ -10,3 +10,4 @@ class MyTestCase(unittest.TestCase):
         self.assertAlmostEqual(result, expected, places=4)
 if __name__ == '__main__':
     unittest.main()
+#
