@@ -6,5 +6,6 @@ floor_arr, inc_arr, filtered_arr = manipulate_array(input_str)
 
 # Print the results
 print(floor_arr)
+
 print(inc_arr)
 print(filtered_arr)
