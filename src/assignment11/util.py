@@ -9,4 +9,3 @@ def min_max():
 
     # Output
     return result
-
