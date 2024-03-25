@@ -14,3 +14,4 @@ def word_occ(n, words):
         occurrences.append(str(word_count[distinct_word]))
 
     return len(distinct_words), ' '.join(occurrences)
+#

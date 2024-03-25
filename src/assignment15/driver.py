@@ -5,4 +5,4 @@ words = input_values.split('\n')[1:-1]
 
 distinct_count, occurrences_list = word_occ(n, words)
 print(distinct_count)
-print(occurrences_list)
+print(occurrences_list)#
