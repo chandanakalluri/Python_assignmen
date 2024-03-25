@@ -8,3 +8,4 @@ def mean_var_std():
     array = np.array(l)
     res=str(np.mean(array,axis=1))+"\n"+str(np.var(array,axis=0))+"\n"+str(round(np.std(array,axis=None),11))
     return res
+#returned output
